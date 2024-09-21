@@ -54,3 +54,20 @@ console.log(k)
 
 e = e + 1
 console.log(e)
+
+// CONCATENATING STRINGS
+
+let firstWord = "hello"
+let seconWord = "World"
+
+let sentence = firstWord + seconWord
+console.log(sentence)
+
+sentence = firstWord + " " + seconWord
+console.log(sentence)
+
+console.log("The value of x is " + x)
+
+console.log("The value of a is " + a)
+
+console.log("The value of e + f is " + (e+f))
